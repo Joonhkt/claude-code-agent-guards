@@ -1,0 +1,7 @@
+shrink.py is adapted from Caveman by Julius Brussee
+(https://github.com/JuliusBrussee/caveman), licensed under the Apache License, Version 2.0
+(https://www.apache.org/licenses/LICENSE-2.0). It is a rewrite in Python of the ideas of
+the compressors in engine/compressors (terminal, log, repetition, redundancy, json, tabular,
+testreport). Changes: no dependency, no network, no retrieval store, English messages.
+
+The full text of the Apache License 2.0 is in LICENSES/Apache-2.0.txt.
